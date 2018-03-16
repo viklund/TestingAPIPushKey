@@ -1,10 +1,7 @@
 # TestingAPIPushKey
 
-One extra line
-
-Two extra lines
-
-Three extra lines
-
-Four extra lines
+- One extra line
+- Two extra lines
+- Three extra lines
+- Four extra lines
 
